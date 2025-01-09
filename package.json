@@ -1,6 +1,6 @@
 {
   "name": "@arexico/authkit-nextjs",
-  "version": "0.17.2",
+  "version": "0.17.2-rev1",
   "description": "Authentication and session helpers for using WorkOS & AuthKit with Next.js",
   "sideEffects": false,
   "type": "module",
